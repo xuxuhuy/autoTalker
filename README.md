@@ -1,0 +1,4 @@
+autoTalker
+==========
+
+Automatic dialogue
